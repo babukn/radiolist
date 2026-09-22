@@ -1,18 +1,901 @@
 {
+  "version": 1,
+  "count": 179,
   "stations": [
     {
-      "id": "zeno-test",
-      "name": "Zeno Test Radio",
-      "url": "https://node-14.zeno.fm/m6re0wedt0hvv",
-      "category": "Radio",
-      "country": "Internet"
+      "id": "global-radio",
+      "name": "Global_Radio",
+      "url": "https://node-14.zeno.fm/epyhxgc1y8huv"
     },
     {
-      "id": "laptop-mic",
-      "name": "Laptop Microphone Test",
-      "url": "http://192.168.1.50:8000/mic.mp3",
-      "category": "Local Test",
-      "country": "LAN"
+      "id": "gold-fm-101-3",
+      "name": "Gold_FM_101_3",
+      "url": "https://stream.radio.co/s00240810b/listen"
+    },
+    {
+      "id": "radio-malayalam2",
+      "name": "Radio_Malayalam2",
+      "url": "https://radiomalayalamfm.com/radio/8000/radio.mp3"
+    },
+    {
+      "id": "ks-chitra",
+      "name": "KS_Chitra",
+      "url": "https://node-14.zeno.fm/qymb18wd0m0vv"
+    },
+    {
+      "id": "radio-keralam-1476-am",
+      "name": "Radio_Keralam_1476_AM",
+      "url": "https://ice31.securenetsystems.net/RADIOKERAL"
+    },
+    {
+      "id": "radio-mango",
+      "name": "Radio_Mango",
+      "url": "https://listen.openstream.co/4635/audio"
+    },
+    {
+      "id": "radio-mkiz-mix",
+      "name": "Radio_Mkiz_Mix",
+      "url": "https://node-14.zeno.fm/m6re0wedt0hvv"
+    },
+    {
+      "id": "mani-chettan-radio",
+      "name": "Mani_Chettan_Radio",
+      "url": "https://node-14.zeno.fm/x9p72943w0hvv"
+    },
+    {
+      "id": "ahalia-fm-90-4",
+      "name": "Ahalia_FM_90_4",
+      "url": "http://cast1.my-control-panel.com/proxy/ahaliafm/stream"
+    },
+    {
+      "id": "radio-macfast",
+      "name": "Radio_Macfast",
+      "url": "https://icecast.octosignals.com/radiomacfast"
+    },
+    {
+      "id": "hello-radio",
+      "name": "Hello_Radio",
+      "url": "https://radio.helloradio.in/radio"
+    },
+    {
+      "id": "qatar-radio",
+      "name": "Qatar_Radio",
+      "url": "http://vokcast.bluecast.in:8227/986fm"
+    },
+    {
+      "id": "pravasi-bharathi",
+      "name": "Pravasi_Bharathi",
+      "url": "https://c30.radioboss.fm:8964/stream"
+    },
+    {
+      "id": "hit-fm-96-7",
+      "name": "HIT_FM_96_7",
+      "url": "http://stream.radiojar.com/3yygc0pwuueuv"
+    },
+    {
+      "id": "radio-onattukara",
+      "name": "Radio_Onattukara",
+      "url": "https://node-14.zeno.fm/fu94u25kqd0uv"
+    },
+    {
+      "id": "malayalam-usa",
+      "name": "Malayalam_USA",
+      "url": "https://usa3.fastcast4u.com/proxy/lkuriako?mp=/1"
+    },
+    {
+      "id": "kissan-radio",
+      "name": "Kissan_Radio",
+      "url": "https://radiosavre.com:8000/radio.mp3"
+    },
+    {
+      "id": "radio-beat",
+      "name": "Radio_Beat",
+      "url": "https://listen.openstream.co/6761/audio"
+    },
+    {
+      "id": "radio-cu",
+      "name": "Radio_CU",
+      "url": "http://cast1.my-control-panel.com/proxy/radioculive/stream.mp3"
+    },
+    {
+      "id": "malayalam-music",
+      "name": "Malayalam_Music",
+      "url": "https://node-14.zeno.fm/g8cx7tggb3quv"
+    },
+    {
+      "id": "radio-neythal",
+      "name": "Radio_Neythal",
+      "url": "https://s2.myradiostream.com:5538/listen.mp3?nocache=1768467534"
+    },
+    {
+      "id": "mohanlal-hits",
+      "name": "Mohanlal_hits",
+      "url": "http://node-07.zeno.fm/5vva7u4ts0quv?zs=772y50ixTRWaw5GImLIUfQ&rj-tok=AAABgc9d1JkAGfmHzgLKD3u5jA&rj-ttl=5"
+    },
+    {
+      "id": "radio-suno",
+      "name": "Radio_suno",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC"
+    },
+    {
+      "id": "radio-mirchi-kochi",
+      "name": "Radio_Mirchi_Kochi",
+      "url": "https://stream.aiir.com/dbv0rxpwp6ytv"
+    },
+    {
+      "id": "kj-yesudas-hits",
+      "name": "KJ_Yesudas_hits",
+      "url": "https://node-14.zeno.fm/9x1sw687nf9uv"
+    },
+    {
+      "id": "radio-naranga",
+      "name": "Radio_Naranga",
+      "url": "https://node-14.zeno.fm/ff2vnbwrbwzuv"
+    },
+    {
+      "id": "malayalam-melody",
+      "name": "MALAYALAM_MELODY",
+      "url": "https://node-14.zeno.fm/pbqv4u9k0k0uv"
+    },
+    {
+      "id": "fm-kottarakara",
+      "name": "FM_Kottarakara",
+      "url": "https://node-14.zeno.fm/gqdb1rev5s8uv"
+    },
+    {
+      "id": "janavani-fm",
+      "name": "Janavani_FM",
+      "url": "https://radiosavre.com:8060/radio.mp3"
+    },
+    {
+      "id": "lmr-radio",
+      "name": "LMR_Radio",
+      "url": "https://ais-edge51-live365-dal02.cdnstream.com/a50671"
+    },
+    {
+      "id": "karunasai-radio-91-2",
+      "name": "Karunasai_Radio_91_2",
+      "url": "https://streamasiahlscdn.atc-labs.com/karunasairadio.m3u8"
+    },
+    {
+      "id": "home-92-2-fm",
+      "name": "Home_92_2_FM",
+      "url": "https://centova.aarenworld.com/proxy/922radiokhushi/stream"
+    },
+    {
+      "id": "5wh-malayalam-podcast-radio",
+      "name": "5wh_Malayalam_Podcast_Radio",
+      "url": "https://node-14.zeno.fm/qtyc30kqgy8uv"
+    },
+    {
+      "id": "radio-mangalam",
+      "name": "Radio_Mangalam",
+      "url": "http://radiomangalam.in:8000/stream"
+    },
+    {
+      "id": "radio-talky",
+      "name": "Radio_Talky",
+      "url": "https://media.streambrothers.com/stream/8368"
+    },
+    {
+      "id": "n-radio-live",
+      "name": "N_Radio_Live",
+      "url": "https://node-14.zeno.fm/4yfsm0d8n98uv"
+    },
+    {
+      "id": "ariyil-up-school-radio",
+      "name": "ARIYIL_UP_SCHOOL_Radio",
+      "url": "https://stream-171.zeno.fm/qup97huzdy8uv"
+    },
+    {
+      "id": "radio-media-villege",
+      "name": "Radio_Media_Villege",
+      "url": "https://443-1.autopo.st/183/stream"
+    },
+    {
+      "id": "kancheeravam-radio",
+      "name": "Kancheeravam_Radio",
+      "url": "http://radiosavre.com:8020/radio.mp3"
+    },
+    {
+      "id": "radio-delhi",
+      "name": "Radio_delhi",
+      "url": "http://94.23.30.114:8043/rdm"
+    },
+    {
+      "id": "live-today-malayalam-fm",
+      "name": "Live_Today_Malayalam_Fm",
+      "url": "https://node-14.zeno.fm/x3wppcsf9s8uv"
+    },
+    {
+      "id": "radio-suno-melody",
+      "name": "Radio_Suno_Melody",
+      "url": "https://node-14.zeno.fm/pbqv4u9k0k0uv"
+    },
+    {
+      "id": "honey-chat-fm",
+      "name": "Honey_Chat_FM",
+      "url": "https://honeychat.in/radio/8010/radio.mp3"
+    },
+    {
+      "id": "ente-radio",
+      "name": "Ente_Radio",
+      "url": "http://cast1.my-control-panel.com/proxy/enteradio/stream"
+    },
+    {
+      "id": "radio-mattoli",
+      "name": "Radio_Mattoli",
+      "url": "http://cast1.my-control-panel.com/proxy/radiomattoli/stream"
+    },
+    {
+      "id": "radio-tirur",
+      "name": "Radio_Tirur",
+      "url": "https://sonic01.instainternet.com/8002/stream"
+    },
+    {
+      "id": "radio-mythri",
+      "name": "Radio_Mythri",
+      "url": "http://node-28.zeno.fm/ekthuu9bfwzuv?rj-ttl=5&rj-tok=AAABcpMfvDwAVsSZ_mDmLRFFLA"
+    },
+    {
+      "id": "radio-benziger",
+      "name": "Radio_Benziger",
+      "url": "https://icecast.octosignals.com/benziger"
+    },
+    {
+      "id": "asianet-news",
+      "name": "Asianet_News",
+      "url": "https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/972c9cce-86d1-4d2a-bdc9-71b0213872db/3.m3u8"
+    },
+    {
+      "id": "24-news",
+      "name": "24_News",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8"
+    },
+    {
+      "id": "safari-tv",
+      "name": "Safari_TV",
+      "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8"
+    },
+    {
+      "id": "manorama-news",
+      "name": "Manorama_News",
+      "url": "https://mmtvnews1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/5add757d-7404-496a-a967-aaa2b32a6215/1.m3u8"
+    },
+    {
+      "id": "mathrubhumi-news",
+      "name": "Mathrubhumi_News",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks.m3u8"
+    },
+    {
+      "id": "reporter",
+      "name": "Reporter",
+      "url": "https://segment.yuppcdn.net/050522/reporter/050522/reporter_600/chunks.m3u8"
+    },
+    {
+      "id": "zee-news-malayalam",
+      "name": "Zee_News_Malayalam",
+      "url": "https://d1ty2af03alkwd.cloudfront.net/index_1.m3u8"
+    },
+    {
+      "id": "red-93-5-fm",
+      "name": "Red_93_5_FM",
+      "url": "https://node-14.zeno.fm/9phrkb1e3v8uv"
+    },
+    {
+      "id": "radio-nellikka",
+      "name": "Radio_Nellikka",
+      "url": "https://usa20.fastcast4u.com:2130/;?type=http&nocache=1745895197"
+    },
+    {
+      "id": "sargakshetra-89-6-fm",
+      "name": "Sargakshetra_89_6_FM",
+      "url": "https://icecast.octosignals.com/sargakshetrafm"
+    },
+    {
+      "id": "fm-city-100-1",
+      "name": "FM_City_100_1",
+      "url": "https://node-14.zeno.fm/4yfsm0d8n98uv"
+    },
+    {
+      "id": "music-mojo",
+      "name": "MUSIC_MOJO",
+      "url": "https://node-14.zeno.fm/1yr0e9s2zf8uv"
+    },
+    {
+      "id": "fm-konni",
+      "name": "FM_KONNI",
+      "url": "https://node-14.zeno.fm/wse3zb8g3uhvv"
+    },
+    {
+      "id": "radio-trivandrum",
+      "name": "Radio_Trivandrum",
+      "url": "https://node-14.zeno.fm/20p9uf9p168uv"
+    },
+    {
+      "id": "kavithakal",
+      "name": "Kavithakal",
+      "url": "https://node-14.zeno.fm/vgwoyjkqhcbtv"
+    },
+    {
+      "id": "aural-radio",
+      "name": "AURAL_RADIO",
+      "url": "http://radio.auralradiokerala.com:1330/;?type=http&nocache=1723732527"
+    },
+    {
+      "id": "radio-asia",
+      "name": "Radio_Asia",
+      "url": "https://ice31.securenetsystems.net/RADIOKERAL"
+    },
+    {
+      "id": "aaha-fm-radio-91-9",
+      "name": "Aaha_FM_Radio_91_9",
+      "url": "http://s2.radio.co/s3801784f1/listen"
+    },
+    {
+      "id": "radio-sarangi",
+      "name": "Radio_Sarangi",
+      "url": "https://radiosarangi.logichost.in/listen/sarangi/radio.mp3"
+    },
+    {
+      "id": "aural-melodics",
+      "name": "AURAL_MELODICS",
+      "url": "https://node-14.zeno.fm/7fmywrmrga0uv"
+    },
+    {
+      "id": "mappila-pattu",
+      "name": "MAPPILA_PATTU",
+      "url": "https://node-14.zeno.fm/2sgvktnrbc9uv"
+    },
+    {
+      "id": "june-fm",
+      "name": "June_FM",
+      "url": "https://onair.junefm.in/live"
+    },
+    {
+      "id": "radio-palakkad",
+      "name": "Radio_Palakkad",
+      "url": "http://node-31.zeno.fm/qgqrxfte41zuv?rj-ttl=5&rj-tok=AAABdFVoSwsAtNzfBu9mEBvE3g"
+    },
+    {
+      "id": "rocker-radio",
+      "name": "Rocker_Radio",
+      "url": "https://node-14.zeno.fm/9mhm0tctdfhvv"
+    },
+    {
+      "id": "southern-spice-fm",
+      "name": "Southern_Spice_FM",
+      "url": "https://node-14.zeno.fm/g8cx7tggb3quv.aac"
+    },
+    {
+      "id": "radio-voxa",
+      "name": "Radio_Voxa",
+      "url": "https://node-14.zeno.fm/zrfx7zy2wwzuv"
+    },
+    {
+      "id": "malayalam-music-24x7",
+      "name": "Malayalam_Music_24x7",
+      "url": "http://node-14.zeno.fm/g8cx7tggb3quv.aac?rj-ttl=5&rj-tok=AAABdFVtArIAT3MHNITSDSURDw"
+    },
+    {
+      "id": "radio-shree-live",
+      "name": "Radio_Shree_live",
+      "url": "https://eu10.fastcast4u.com:14910/;"
+    },
+    {
+      "id": "gramaphone-fm",
+      "name": "Gramaphone_FM",
+      "url": "https://node-14.zeno.fm/gm3g9amzm0hvv"
+    },
+    {
+      "id": "anbu-fm-malayalam",
+      "name": "ANBU_FM_MALAYALAM",
+      "url": "https://node-14.zeno.fm/8ca40byv4x8uv"
+    },
+    {
+      "id": "mallu-fm",
+      "name": "Mallu_FM",
+      "url": "https://node-14.zeno.fm/g6zn09w0trhvv"
+    },
+    {
+      "id": "radio-lemon",
+      "name": "Radio_Lemon",
+      "url": "https://live.sarrit.com:8040/radio.mp3"
+    },
+    {
+      "id": "mallu-voice",
+      "name": "MALLU_VOICE",
+      "url": "https://node-14.zeno.fm/cwz36wmtu38uv"
+    },
+    {
+      "id": "radio-kerala2",
+      "name": "Radio_Kerala2",
+      "url": "https://streaming.radiokerala.in/listen/radio_kerala/radio.mp3"
+    },
+    {
+      "id": "swaranjali2",
+      "name": "Swaranjali2",
+      "url": "https://node-14.zeno.fm/x7mve2vt01zuv"
+    },
+    {
+      "id": "recast-fm",
+      "name": "Recast_FM",
+      "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1/;stream.mp3"
+    },
+    {
+      "id": "hallos-radio",
+      "name": "Hallos_Radio",
+      "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1"
+    },
+    {
+      "id": "omd-radio",
+      "name": "OMD_Radio",
+      "url": "https://node-14.zeno.fm/bc8t20d6vwzuv"
+    },
+    {
+      "id": "radio-104-2-fm",
+      "name": "Radio_104_2_FM",
+      "url": "https://node-14.zeno.fm/x7mve2vt01zuv"
+    },
+    {
+      "id": "radio-kochi-90-fm",
+      "name": "Radio_Kochi_90_FM",
+      "url": "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8"
+    },
+    {
+      "id": "madhuram-malayalam",
+      "name": "MADHURAM_MALAYALAM",
+      "url": "https://node-14.zeno.fm/eh66m1gy4rhvv"
+    },
+    {
+      "id": "kochi-music-station",
+      "name": "Kochi_Music_Station",
+      "url": "https://node-14.zeno.fm/bdu9v5hy5x8uv"
+    },
+    {
+      "id": "malayalam-radio-london",
+      "name": "Malayalam_Radio_London",
+      "url": "https://streaming.brol.tech/rtfmlounge"
+    },
+    {
+      "id": "thaalam-24-7",
+      "name": "Thaalam_24_7",
+      "url": "https://radio.thaalam24x7.in/listen/thaalam_24x7/live"
+    },
+    {
+      "id": "canada-malayalam-fm",
+      "name": "Canada_Malayalam_Fm",
+      "url": "https://node-14.zeno.fm/q6w9rhxoqibvv"
+    },
+    {
+      "id": "radio-malabar-89-6",
+      "name": "Radio_Malabar_89_6",
+      "url": "https://streamasiacdn.atc-labs.com/radiomalabar.aac"
+    },
+    {
+      "id": "snegam-radio",
+      "name": "Snegam_Radio",
+      "url": "https://node-14.zeno.fm/nu5ttumbem0uv"
+    },
+    {
+      "id": "airstar-radio",
+      "name": "AirStar_Radio",
+      "url": "https://node-14.zeno.fm/hf1q5cf0d48uv"
+    },
+    {
+      "id": "ngrp-music",
+      "name": "NGRP_MUSIC",
+      "url": "https://node-14.zeno.fm/dtrluba3buyuv"
+    },
+    {
+      "id": "pranayam",
+      "name": "Pranayam",
+      "url": "https://node-14.zeno.fm/g2zves9gdwzuv"
+    },
+    {
+      "id": "radio-scientia",
+      "name": "Radio_Scientia",
+      "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-12/154485915-44100-2-44122d6059f0e.m4a"
+    },
+    {
+      "id": "kannooraan-fm",
+      "name": "Kannooraan_fm",
+      "url": "https://node-14.zeno.fm/6mt25nrtbphvv"
+    },
+    {
+      "id": "mallu-vibes",
+      "name": "MALLU_VIBES",
+      "url": "https://node-14.zeno.fm/7z05xdu0etzuv"
+    },
+    {
+      "id": "mazhavil-malayalam",
+      "name": "Mazhavil_Malayalam",
+      "url": "https://node-14.zeno.fm/4qh00fspq18uv"
+    },
+    {
+      "id": "radio-malabar",
+      "name": "Radio_Malabar",
+      "url": "https://node-14.zeno.fm/sahr7dkkffhvv"
+    },
+    {
+      "id": "nilgiris-radio",
+      "name": "Nilgiris_Radio",
+      "url": "https://node-14.zeno.fm/85f15d8m738uv"
+    },
+    {
+      "id": "miam-radio-cheruvattoor",
+      "name": "MIAM_RADIO_CHERUVATTOOR",
+      "url": "https://node-14.zeno.fm/bncw2mqa508uv"
+    },
+    {
+      "id": "radio-beats",
+      "name": "Radio_Beats",
+      "url": "http://live.exertion.in:8050/radio.mp3"
+    },
+    {
+      "id": "radio-rasam",
+      "name": "Radio_Rasam",
+      "url": "https://node-14.zeno.fm/bdu9v5hy5x8uv"
+    },
+    {
+      "id": "air-manjeri",
+      "name": "AIR_Manjeri",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8"
+    },
+    {
+      "id": "air-malayalam",
+      "name": "AIR_Malayalam",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
+    },
+    {
+      "id": "air-ananthapuri",
+      "name": "AIR_Ananthapuri",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8"
+    },
+    {
+      "id": "air-kozhikode",
+      "name": "AIR_Kozhikode",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8"
+    },
+    {
+      "id": "rainbow-fm-kochi",
+      "name": "Rainbow_FM_Kochi",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8"
+    },
+    {
+      "id": "air-calicut",
+      "name": "AIR_Calicut",
+      "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8"
+    },
+    {
+      "id": "air-kochi",
+      "name": "AIR_Kochi",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8"
+    },
+    {
+      "id": "air-kannur",
+      "name": "AIR_Kannur",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8"
+    },
+    {
+      "id": "air-thrissur",
+      "name": "AIR_Thrissur",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8"
+    },
+    {
+      "id": "air-devikulam",
+      "name": "AIR_Devikulam",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8"
+    },
+    {
+      "id": "air-kavaratti",
+      "name": "AIR_Kavaratti",
+      "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8"
+    },
+    {
+      "id": "air-alappuzha-fm",
+      "name": "AIR_Alappuzha_FM",
+      "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
+    },
+    {
+      "id": "radio-mirchi-hindi",
+      "name": "Radio_Mirchi_Hindi",
+      "url": "https://listen.openstream.co/4603/audio"
+    },
+    {
+      "id": "big-fm-hindi-106-2",
+      "name": "Big_FM_Hindi_106_2",
+      "url": "https://funasia.streamguys1.com/live4"
+    },
+    {
+      "id": "new-hits-of-bollywood",
+      "name": "New_Hits_Of_Bollywood",
+      "url": "https://node-14.zeno.fm/rqqps6cbe3quv"
+    },
+    {
+      "id": "5-rivers-radio",
+      "name": "5_Rivers_Radio",
+      "url": "https://hello.citrus3.com:2020/stream/5riversradio"
+    },
+    {
+      "id": "non-stop-hindi",
+      "name": "Non_Stop_Hindi",
+      "url": "http://198.178.123.14:8216/stream"
+    },
+    {
+      "id": "radio-mirchi-tamil",
+      "name": "Radio_Mirchi_Tamil",
+      "url": "https://listen.openstream.co/4543/audio"
+    },
+    {
+      "id": "hello-fm-106-4-chennai",
+      "name": "Hello_FM_106_4_Chennai",
+      "url": "https://listen.openstream.co/4428/audio"
+    },
+    {
+      "id": "anbu-fm-tamil",
+      "name": "ANBU_FM_Tamil",
+      "url": "https://node-14.zeno.fm/5csru2np4bruv"
+    },
+    {
+      "id": "tamil-89-4",
+      "name": "Tamil_89_4",
+      "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream"
+    },
+    {
+      "id": "radio-gilli",
+      "name": "Radio_Gilli",
+      "url": "https://stream1.rcast.net/73058"
+    },
+    {
+      "id": "bbc-world-service",
+      "name": "BBC_World_Service",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+      "id": "al-jazeera-audio",
+      "name": "Al_Jazeera_Audio",
+      "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8"
+    },
+    {
+      "id": "pop-erre-jackson",
+      "name": "Pop_Erre_Jackson",
+      "url": "https://node-14.zeno.fm/rxx6d9fbvv8uv"
+    },
+    {
+      "id": "radioalfa5-latin-hits",
+      "name": "Radioalfa5_latin_hits",
+      "url": "https://node-14.zeno.fm/qk0gttkavqzuv"
+    },
+    {
+      "id": "exclusively-bts",
+      "name": "Exclusively_BTS",
+      "url": "https://streaming.exclusive.radio/er/bts/icecast.audio"
+    },
+    {
+      "id": "blackpink-radio",
+      "name": "BlackPink_Radio",
+      "url": "https://2.mystreaming.net/uber/playpalblackpink/icecast.audio"
+    },
+    {
+      "id": "quran-radio",
+      "name": "Quran_Radio",
+      "url": "http://node-34.zeno.fm/1zkhsttf5f8uv?rj-ttl=5&rj-tok=AAABfVqpjiIAEi4MBlYl8vOTcg"
+    },
+    {
+      "id": "peace-radio",
+      "name": "Peace_Radio",
+      "url": "http://stream.peaceradio.com:8000/high"
+    },
+    {
+      "id": "meelad-radio",
+      "name": "Meelad_Radio",
+      "url": "https://node-14.zeno.fm/qxrekfitmhkvv"
+    },
+    {
+      "id": "radio-islam",
+      "name": "Radio_Islam",
+      "url": "http://radioislamin.out.airtime.pro:8000/radioislamin_a"
+    },
+    {
+      "id": "voice-of-islam-kerala",
+      "name": "Voice_Of_Islam_Kerala",
+      "url": "https://node-14.zeno.fm/4pk883xs0v8uv"
+    },
+    {
+      "id": "radio-ilmussalaf",
+      "name": "Radio_Ilmussalaf",
+      "url": "http://equinox.shoutca.st:9023/stream?"
+    },
+    {
+      "id": "islamic-talk",
+      "name": "Islamic_Talk",
+      "url": "https://radioislamin.out.airtime.pro/radioislamin_a"
+    },
+    {
+      "id": "muthnabi-radio",
+      "name": "Muthnabi_Radio",
+      "url": "https://cast4.my-control-panel.com/proxy/muthnabi/stream"
+    },
+    {
+      "id": "sree-kurumba-fm",
+      "name": "Sree_Kurumba_fm",
+      "url": "https://node-14.zeno.fm/b35ge5nuv7guv"
+    },
+    {
+      "id": "radio-ayyappa",
+      "name": "Radio_Ayyappa",
+      "url": "http://s35.myradiostream.com:28232/;"
+    },
+    {
+      "id": "n-radio-devotional",
+      "name": "N_Radio_Devotional",
+      "url": "https://node-14.zeno.fm/wbtn4zwb998uv"
+    },
+    {
+      "id": "hindu-devo",
+      "name": "HINDU_DEVO",
+      "url": "https://node-14.zeno.fm/08e1vkshcc9uv"
+    },
+    {
+      "id": "divyavani-sanskrit-radio",
+      "name": "Divyavani_Sanskrit_Radio",
+      "url": "http://epsilon.shoutca.st:8070/stream"
+    },
+    {
+      "id": "om-radio",
+      "name": "OM_Radio",
+      "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC"
+    },
+    {
+      "id": "bhagavad-gita",
+      "name": "Bhagavad_Gita",
+      "url": "https://node-14.zeno.fm/78n01cchmy8uv"
+    },
+    {
+      "id": "radio-sai-global-harmony",
+      "name": "Radio_Sai_Global_Harmony",
+      "url": "https://stream.sssmediacentre.org:8000/autobhajan"
+    },
+    {
+      "id": "revive-radio",
+      "name": "Revive_Radio",
+      "url": "https://gains.reviveradio.net/proxy/revivemalayalam?mp=/stream"
+    },
+    {
+      "id": "psalms-radio",
+      "name": "Psalms_Radio",
+      "url": "https://s2.citrus3.com:8046/stream"
+    },
+    {
+      "id": "dvn-radio",
+      "name": "DVN_Radio",
+      "url": "https://ice31.securenetsystems.net/DVN"
+    },
+    {
+      "id": "shalom-beats",
+      "name": "Shalom_Beats",
+      "url": "http://rd.shalombeatsradio.com:8006/stream"
+    },
+    {
+      "id": "rafa-radio",
+      "name": "Rafa_Radio",
+      "url": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"
+    },
+    {
+      "id": "mary-matha-radio",
+      "name": "Mary_Matha_Radio",
+      "url": "https://stream.zenolive.com/g5ay9q4dgrruv"
+    },
+    {
+      "id": "shalom-tv",
+      "name": "Shalom_TV",
+      "url": "https://d2c4zqo2rb5uf1.cloudfront.net/master_128.m3u8"
+    },
+    {
+      "id": "bafa-radio",
+      "name": "Bafa_Radio",
+      "url": "https://gains.reviveradio.net/proxy/bafaradio/stream"
+    },
+    {
+      "id": "dj-and-remix",
+      "name": "DJ_AND_REMIX",
+      "url": "https://node-14.zeno.fm/ck05bfqfys8uv"
+    },
+    {
+      "id": "ashraya-fm-90",
+      "name": "Ashraya_FM_90",
+      "url": "https://fm.ashrayafm90.com/ashrayafm"
+    },
+    {
+      "id": "radio-jaiho",
+      "name": "Radio_Jaiho",
+      "url": "https://eu10.fastcast4u.com:14910/;?type=http&nocache=1683743676"
+    },
+    {
+      "id": "kaathoram-live",
+      "name": "Kaathoram_Live",
+      "url": "https://c30.radioboss.fm/stream/560"
+    },
+    {
+      "id": "hello-kannadi-82-o",
+      "name": "Hello_Kannadi_82_O",
+      "url": "https://node-14.zeno.fm/z3vbsnc4v0hvv"
+    },
+    {
+      "id": "aze-vision-radio",
+      "name": "Aze_Vision_Radio",
+      "url": "https://a5.asurahosting.com:8340/radio.mp3"
+    },
+    {
+      "id": "naadan-chaaya-radio",
+      "name": "Naadan_Chaaya_Radio",
+      "url": "https://uksoutha.streaming.broadcast.radio/naadanchaayaradio"
+    },
+    {
+      "id": "vividh-bharati-103-6-kozhikode",
+      "name": "Vividh_Bharati_103_6_Kozhikode",
+      "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
+    },
+    {
+      "id": "bisme-radio",
+      "name": "Bisme_Radio",
+      "url": "https://stream.rcs.revma.com/tqs3nd82y33vv"
+    },
+    {
+      "id": "ayyankovil-online-radio",
+      "name": "Ayyankovil_Online_Radio",
+      "url": "https://node-14.zeno.fm/1aqiugocjiruv"
+    },
+    {
+      "id": "malayalam-christian-radio",
+      "name": "Malayalam_Christian_Radio",
+      "url": "https://node-14.zeno.fm/g5ay9q4dgrruv"
+    },
+    {
+      "id": "live-fm-107-2",
+      "name": "Live_FM_107_2",
+      "url": "https://stream.aiir.com/dbv0rxpwp6ytv"
+    },
+    {
+      "id": "radio-4-u",
+      "name": "Radio_4_U",
+      "url": "https://a5.asurahosting.com:7450/radio.mp3"
+    },
+    {
+      "id": "digital-malyali",
+      "name": "Digital_Malyali",
+      "url": "https://radio.digitalmalayali.in/listen/stream/radio.mp3"
+    },
+    {
+      "id": "mazhamegham-radio",
+      "name": "MAZHAMEGHAM_RADIO",
+      "url": "https://node-14.zeno.fm/0fknp2guty8uv"
+    },
+    {
+      "id": "rdaio-lime",
+      "name": "Rdaio_Lime",
+      "url": "https://s5.radio.co/s6e27496ef/listen"
+    },
+    {
+      "id": "360-radio",
+      "name": "360_Radio",
+      "url": "https://listen.radioking.com/radio/493456/stream/550438"
+    },
+    {
+      "id": "radio-sallapam",
+      "name": "Radio_Sallapam",
+      "url": "https://usa10.fastcast4u.com:8110/;"
+    },
+    {
+      "id": "voxpop-fm",
+      "name": "VOXPOP_FM",
+      "url": "https://node-14.zeno.fm/sm1rf3kmvy8uv"
+    },
+    {
+      "id": "melody-fm-malayalam",
+      "name": "MELODY_FM_MALAYALAM",
+      "url": "https://node-14.zeno.fm/mqtevgbtynouv"
     }
   ]
 }
