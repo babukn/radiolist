@@ -1,0 +1,18 @@
+{
+  "stations": [
+    {
+      "id": "zeno-test",
+      "name": "Zeno Test Radio",
+      "url": "https://node-14.zeno.fm/m6re0wedt0hvv",
+      "category": "Radio",
+      "country": "Internet"
+    },
+    {
+      "id": "laptop-mic",
+      "name": "Laptop Microphone Test",
+      "url": "http://192.168.1.50:8000/mic.mp3",
+      "category": "Local Test",
+      "country": "LAN"
+    }
+  ]
+}
